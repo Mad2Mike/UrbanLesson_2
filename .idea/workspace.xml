@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Lesson 1 and 2 in module 2" />
+    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Lesson 1 and 2 in module 2">
+      <change afterPath="$PROJECT_DIR$/module_2_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Mad2Mike&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Mad2Mike/UrbanLesson_2.git&quot;,
+    &quot;accountId&quot;: &quot;d9cd7e93-2282-4f4a-89e4-583e326e55dc&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -35,6 +50,7 @@
   "keyToString": {
     "Python.module_2_1.executor": "Debug",
     "Python.module_2_2.executor": "Run",
+    "Python.module_2_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true"
