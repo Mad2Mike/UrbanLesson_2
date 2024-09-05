@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Lesson 1 and 2 in module 2">
-      <change afterPath="$PROJECT_DIR$/module_2_3.py" afterDir="false" />
+    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Lesson 3 in module 2">
+      <change afterPath="$PROJECT_DIR$/module_2_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
     "Python.module_2_1.executor": "Debug",
     "Python.module_2_2.executor": "Run",
     "Python.module_2_3.executor": "Run",
+    "Python.module_2_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true"
@@ -88,12 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725308282461</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lesson 3 in module 2">
+      <option name="closed" value="true" />
+      <created>1725562111706</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725562111706</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lesson 1 and 2 in module 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 1 and 2 in module 2" />
+    <MESSAGE value="Lesson 3 in module 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 3 in module 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
