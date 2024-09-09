@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Final lesson in module 2">
-      <change afterPath="$PROJECT_DIR$/UrbanLesson_3/module_3.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UrbanLesson_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UrbanLessons.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanLesson_2/module_2_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanLesson_2/module_2_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_2_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanLesson_2/module_2_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanLesson_2/module_2_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_2_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanLesson_2/module_2_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_2_hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanLesson_2/module_2_hard.py" afterDir="false" />
-    </list>
+    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Module 3 Lesson 1 and structure changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,21 +43,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Test.executor": "Run",
-    "Python.module_2_1.executor": "Debug",
-    "Python.module_2_2.executor": "Run",
-    "Python.module_2_3.executor": "Run",
-    "Python.module_2_4.executor": "Run",
-    "Python.module_2_5.executor": "Run",
-    "Python.module_2_hard.executor": "Run",
-    "Python.module_3.1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.module_2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3.1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="N:\PythonProjects\UrbanLesson_2\UrbanLesson_2" />
@@ -252,7 +241,8 @@
     <MESSAGE value="Lesson 4 in module 2" />
     <MESSAGE value="Lesson 5 in module 2" />
     <MESSAGE value="Final lesson in module 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final lesson in module 2" />
+    <MESSAGE value="Module 3 Lesson 1 and structure changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 3 Lesson 1 and structure changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
