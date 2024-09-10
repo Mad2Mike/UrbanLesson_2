@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Module 3 Lesson 1 and structure changes" />
+    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Module 3 Lesson 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -232,17 +234,78 @@
       <option name="project" value="LOCAL" />
       <updated>1725747140324</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Final lesson in module 2">
+      <option name="closed" value="true" />
+      <created>1725910718151</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725910718151</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Final lesson in module 2">
+      <option name="closed" value="true" />
+      <created>1725910786946</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725910786946</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Module 3 Lesson 1">
+      <option name="closed" value="true" />
+      <created>1725911070823</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725911070823</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Module 3 Lesson 1">
+      <option name="closed" value="true" />
+      <created>1725911080404</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725911080404</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Module 3 Lesson 1">
+      <option name="closed" value="true" />
+      <created>1725911091524</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725911091525</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Module 3 Lesson 1">
+      <option name="closed" value="true" />
+      <created>1725911100866</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725911100866</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lesson 1 and 2 in module 2" />
     <MESSAGE value="Lesson 3 in module 2" />
     <MESSAGE value="Lesson 4 in module 2" />
     <MESSAGE value="Lesson 5 in module 2" />
-    <MESSAGE value="Final lesson in module 2" />
     <MESSAGE value="Module 3 Lesson 1 and structure changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 3 Lesson 1 and structure changes" />
+    <MESSAGE value="Final lesson in module 2" />
+    <MESSAGE value="Module 3 Lesson 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 3 Lesson 1" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
