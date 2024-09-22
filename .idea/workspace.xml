@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Module 3 Hard">
+    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Module 3_5">
+      <change afterPath="$PROJECT_DIR$/UrbanLesson_4/fake_math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanLesson_4/module_4_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanLesson_4/true_math.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanLesson_2/module_2_hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanLesson_2/module_2_hard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrbanLesson_3/module_3_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanLesson_3/module_3_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_hard.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +54,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Test.executor": "Run",
+    "Python.fake_math.executor": "Run",
     "Python.module_2_1.executor": "Debug",
     "Python.module_2_2.executor": "Run",
     "Python.module_2_3.executor": "Run",
@@ -61,6 +67,7 @@
     "Python.module_3_4.executor": "Run",
     "Python.module_3_5.executor": "Run",
     "Python.module_3_hard.executor": "Run",
+    "Python.module_4_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -262,7 +269,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726784244648</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Module 3_5">
+      <option name="closed" value="true" />
+      <created>1726836226156</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1726836226156</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,7 +304,8 @@
     <MESSAGE value="Module 3 Lesson 4" />
     <MESSAGE value="Module 3 Lesson 5" />
     <MESSAGE value="Module 3 Hard" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 3 Hard" />
+    <MESSAGE value="Module 3_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 3_5" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -298,10 +314,6 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/UrbanLesson_2/module_2_1.py</url>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/UrbanLesson_3/module_3_5.py</url>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -12,3 +12,5 @@ def get_multiplied_digits(number):
 result = get_multiplied_digits(2030)
 print(result)
 
+
+

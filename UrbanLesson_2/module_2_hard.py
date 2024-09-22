@@ -16,7 +16,6 @@ def pas_unlock(pas_number):
 def number_check(pas_number):
     # Функция для проверки на ввод числа, соответствующего параметрам
     check_list = list(range(3, 21))
-
     try:
         number = int(pas_number)
         if number in check_list:
@@ -26,8 +25,7 @@ def number_check(pas_number):
             main()
     except ValueError:
         print("Это не число.")
-    main()
-
+        main()
 
 
 def main():
