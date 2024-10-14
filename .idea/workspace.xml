@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Module 5_4">
-      <change afterPath="$PROJECT_DIR$/UrbanLesson_5/module5hard.py" afterDir="false" />
+    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Module 5_hard">
+      <change afterPath="$PROJECT_DIR$/UrbanLessons_6/module_6_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +69,7 @@
     "Python.module_5_2.executor": "Run",
     "Python.module_5_3.executor": "Run",
     "Python.module_5_4.executor": "Run",
+    "Python.module_6_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -77,8 +78,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="N:\PythonProjects\UrbanLesson_2\UrbanLesson_2" />
       <recent name="N:\PythonProjects\UrbanLesson_2" />
+      <recent name="N:\PythonProjects\UrbanLesson_2\UrbanLesson_2" />
     </key>
   </component>
   <component name="RunManager">
@@ -326,7 +327,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728335547770</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Module 5_hard">
+      <option name="closed" value="true" />
+      <created>1728938596820</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1728938596820</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -359,7 +368,8 @@
     <MESSAGE value="Module 5_2" />
     <MESSAGE value="Module 5_3" />
     <MESSAGE value="Module 5_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 5_4" />
+    <MESSAGE value="Module 5_hard" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 5_hard" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="XDebuggerManager">
