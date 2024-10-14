@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Module 5_3">
-      <change afterPath="$PROJECT_DIR$/UrbanLesson_5/module_5_4.py" afterDir="false" />
+    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Module 5_4">
+      <change afterPath="$PROJECT_DIR$/UrbanLesson_5/module5hard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
   "keyToString": {
     "Python.Test.executor": "Run",
     "Python.fake_math.executor": "Run",
+    "Python.module5hard.executor": "Run",
     "Python.module_2_1.executor": "Debug",
     "Python.module_2_2.executor": "Run",
     "Python.module_2_3.executor": "Run",
@@ -317,7 +318,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728331469809</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Module 5_4">
+      <option name="closed" value="true" />
+      <created>1728335547770</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1728335547770</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -349,7 +358,8 @@
     <MESSAGE value="Module 5_1" />
     <MESSAGE value="Module 5_2" />
     <MESSAGE value="Module 5_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 5_3" />
+    <MESSAGE value="Module 5_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 5_4" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="XDebuggerManager">
