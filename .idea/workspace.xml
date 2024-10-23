@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Module 6_3">
-      <change afterPath="$PROJECT_DIR$/UrbanLessons_6/module6hard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanLessons_7/module_7_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanLessons_7/products.txt" afterDir="false" />
+    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Module 7_1">
+      <change afterPath="$PROJECT_DIR$/UrbanLessons_7/module_7_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +73,7 @@
     "Python.module_6_2.executor": "Run",
     "Python.module_6_3.executor": "Run",
     "Python.module_7_1.executor": "Run",
+    "Python.module_7_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -364,7 +363,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729465241623</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Module 7_1">
+      <option name="closed" value="true" />
+      <created>1729711238640</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1729711238640</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Module 7_1">
+      <option name="closed" value="true" />
+      <created>1729711310606</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1729711310606</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -401,7 +416,8 @@
     <MESSAGE value="Module 6_1" />
     <MESSAGE value="Module 6_2" />
     <MESSAGE value="Module 6_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 6_3" />
+    <MESSAGE value="Module 7_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 7_1" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="XDebuggerManager">
