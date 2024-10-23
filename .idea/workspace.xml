@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Module 7_3">
-      <change afterPath="$PROJECT_DIR$/UrbanLessons_7/module_7_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanLessons_6/module6hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanLessons_6/module6hard.py" afterDir="false" />
+    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Module 7_4">
+      <change afterPath="$PROJECT_DIR$/UrbanLessons_7/module_7_5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -399,7 +397,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729715675622</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Module 7_4">
+      <option name="closed" value="true" />
+      <created>1729717188049</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1729717188049</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,7 +420,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lesson 1 and 2 in module 2" />
     <MESSAGE value="Lesson 3 in module 2" />
     <MESSAGE value="Lesson 4 in module 2" />
     <MESSAGE value="Lesson 5 in module 2" />
@@ -439,7 +444,8 @@
     <MESSAGE value="Module 7_1" />
     <MESSAGE value="Module 7_2" />
     <MESSAGE value="Module 7_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 7_3" />
+    <MESSAGE value="Module 7_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 7_4" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="XDebuggerManager">
