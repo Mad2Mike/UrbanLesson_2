@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Module 7_4">
-      <change afterPath="$PROJECT_DIR$/UrbanLessons_7/module_7_5.py" afterDir="false" />
+    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Module 7_5">
+      <change afterPath="$PROJECT_DIR$/UrbanLessons_8/module_8_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,43 +46,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Test.executor": "Run",
-    "Python.fake_math.executor": "Run",
-    "Python.module5hard.executor": "Run",
-    "Python.module6hard.executor": "Run",
-    "Python.module_2_1.executor": "Debug",
-    "Python.module_2_2.executor": "Run",
-    "Python.module_2_3.executor": "Run",
-    "Python.module_2_4.executor": "Run",
-    "Python.module_2_5.executor": "Run",
-    "Python.module_2_hard.executor": "Run",
-    "Python.module_3.1.executor": "Run",
-    "Python.module_3_2.executor": "Run",
-    "Python.module_3_3.executor": "Run",
-    "Python.module_3_4.executor": "Run",
-    "Python.module_3_5.executor": "Run",
-    "Python.module_3_hard.executor": "Run",
-    "Python.module_4_1.executor": "Run",
-    "Python.module_4_2.executor": "Run",
-    "Python.module_5_1.executor": "Run",
-    "Python.module_5_2.executor": "Run",
-    "Python.module_5_3.executor": "Run",
-    "Python.module_5_4.executor": "Run",
-    "Python.module_6_1.executor": "Run",
-    "Python.module_6_2.executor": "Run",
-    "Python.module_6_3.executor": "Run",
-    "Python.module_7_1.executor": "Run",
-    "Python.module_7_2.executor": "Run",
-    "Python.module_7_3.executor": "Run",
-    "Python.module_7_4.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fake_math.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module5hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module6hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.module_2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_5.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="N:\PythonProjects\UrbanLesson_2" />
@@ -405,7 +407,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729717188049</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Module 7_5">
+      <option name="closed" value="true" />
+      <created>1729717729726</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1729717729726</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -420,7 +430,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lesson 3 in module 2" />
     <MESSAGE value="Lesson 4 in module 2" />
     <MESSAGE value="Lesson 5 in module 2" />
     <MESSAGE value="Module 3 Lesson 1 and structure changes" />
@@ -445,7 +454,8 @@
     <MESSAGE value="Module 7_2" />
     <MESSAGE value="Module 7_3" />
     <MESSAGE value="Module 7_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 7_4" />
+    <MESSAGE value="Module 7_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 7_5" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="XDebuggerManager">
