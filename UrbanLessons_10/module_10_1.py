@@ -18,6 +18,7 @@ execution_time = end_time - start_time
 print(f"Работа потоков: {execution_time} секунд")
 
 start_time = time.time()
+
 threads = []
 for i, (count, filename) in enumerate([(10, "example5.txt"),
                                         (30, "example6.txt"),
