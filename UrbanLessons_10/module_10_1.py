@@ -15,7 +15,7 @@ write_words(200, "example3.txt")
 write_words(100, "example4.txt")
 end_time = time.time()
 execution_time = end_time - start_time
-print(f"Время выполнения: {execution_time} секунд")
+print(f"Работа потоков: {execution_time} секунд")
 
 start_time = time.time()
 threads = []
@@ -33,4 +33,4 @@ for thread in threads:
 
 end_time = time.time()
 execution_time= end_time - start_time
-print(f"Время выполнения (асинхронно): {execution_time} секунд")
+print(f"Работа потоков: {execution_time} секунд")

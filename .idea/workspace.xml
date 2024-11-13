@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Module 9_7">
-      <change afterPath="$PROJECT_DIR$/UrbanLessons_10/module_10_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Module 10_1">
+      <change beforePath="$PROJECT_DIR$/UrbanLessons_10/module_10_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanLessons_10/module_10_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -514,7 +513,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731254924352</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Module 10_1">
+      <option name="closed" value="true" />
+      <created>1731528308069</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1731528308069</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -529,7 +536,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Module 3_5" />
     <MESSAGE value="Module 4_1" />
     <MESSAGE value="Module 5_1" />
     <MESSAGE value="Module 5_2" />
@@ -554,7 +560,8 @@
     <MESSAGE value="Module 9_5" />
     <MESSAGE value="Module 9_6" />
     <MESSAGE value="Module 9_7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 9_7" />
+    <MESSAGE value="Module 10_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 10_1" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="XDebuggerManager">
