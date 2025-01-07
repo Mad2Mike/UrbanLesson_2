@@ -16,6 +16,9 @@ class Runner:
 
 
 class RunnerTest(unittest.TestCase):
+    is_frozen = False
+
+    @unittest.skipIf(is_frozen, "Тесты в этом кейсе заморожены'")
     def test_walk(self):
         runner_obj = Runner("TestRunnerObj")
 
@@ -23,12 +26,14 @@ class RunnerTest(unittest.TestCase):
             runner_obj.walk()
         self.assertEqual(runner_obj.distance, 50)
 
+    @unittest.skipIf(is_frozen, "Тесты в этом кейсе заморожены'")
     def test_run(self):
         runner_obj = Runner("TestRunnerObj")
         for _ in range(10):
             runner_obj.run()
-        self.assertEqual(runner_obj.distance, 100)
+        self.assertEqual(runner_obj.distance, 2000)
 
+    @unittest.skipIf(is_frozen, "Тесты в этом кейсе заморожены'")
     def test_challenge(self):
         runner_obj_1 = Runner("TestRunnerObj1")
         runner_obj_2 = Runner("TestRunnerObj2")

@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Module 12_1">
-      <change afterPath="$PROJECT_DIR$/UrbanLessons_12/Module_12_2.py" afterDir="false" />
+    <list default="true" id="19211bcf-b6f9-40c6-adbd-3c528f677315" name="Changes" comment="Module 12_2">
+      <change afterPath="$PROJECT_DIR$/UrbanLessons_12/module_12_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanLessons_12/Module_12_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanLessons_12/module_12_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanLessons_12/Module_12_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanLessons_12/module_12_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +52,7 @@
   "keyToString": {
     "Python tests.Python tests in Module_12_1.py.executor": "Run",
     "Python tests.Python tests in Module_12_2.py.executor": "Run",
+    "Python tests.Python tests in module_12_1.py.executor": "Run",
     "Python.Module_12_1.executor": "Run",
     "Python.Module_12_2.executor": "Run",
     "Python.Test.executor": "Run",
@@ -63,6 +66,7 @@
     "Python.module_10_5.executor": "Run",
     "Python.module_11_1.executor": "Run",
     "Python.module_11_2.executor": "Run",
+    "Python.module_12_3.executor": "Run",
     "Python.module_2_1.executor": "Debug",
     "Python.module_2_2.executor": "Run",
     "Python.module_2_3.executor": "Run",
@@ -156,14 +160,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725302888505</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Final lesson in module 2">
-      <option name="closed" value="true" />
-      <created>1725910786946</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1725910786946</updated>
     </task>
     <task id="LOCAL-00009" summary="Module 3 Lesson 1">
       <option name="closed" value="true" />
@@ -549,7 +545,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735920762933</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Module 12_2">
+      <option name="closed" value="true" />
+      <created>1736197759763</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1736197759764</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -564,7 +568,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Module 6_2" />
     <MESSAGE value="Module 6_3" />
     <MESSAGE value="Module 7_1" />
     <MESSAGE value="Module 7_2" />
@@ -589,7 +592,8 @@
     <MESSAGE value="Module 11_1" />
     <MESSAGE value="Module 11_2" />
     <MESSAGE value="Module 12_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 12_1" />
+    <MESSAGE value="Module 12_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 12_2" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="XDebuggerManager">
